@@ -1,0 +1,9 @@
+nombre = input("Elige el nombre de usuario")
+print("¡Bienvenido!", nombre,"")
+
+edad = input("¿Cuatos años tienes?")
+
+print("Cargando Datos...")
+
+print("¡Todo listo para el test!")
+
